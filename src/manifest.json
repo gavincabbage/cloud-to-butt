@@ -1,7 +1,7 @@
 {
 	"manifest_version": 2,
 	"name": "shitkerizer",
-	"version": "1.3",
+	"version": "1.4",
 	"description": "A Chrome extension to keep your browsing experience Sch*lke-free",
 	"icons": {
 		"16": "icon16.png",

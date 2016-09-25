@@ -1,7 +1,7 @@
 const RULES = [
-	{ regex: /\b[Ff][Cc] [Ss]chalke 04\b/g, replacement: 'FC Coleslaw 04' },
+	{ regex: /\b[Ff][Cc] [Ss]chalke 04\b/g, replacement: 'FC Coleslaw 03+1' },
 	{ regex: /\b[Ss]chalke\b/g, replacement: 'Shitke' },
-	{ regex: /\b[Ss]chalke04\b/g, replacement: 'Shitke04' },
+	{ regex: /\b[Ss]chalke04\b/g, replacement: 'Shitke03+1' },
 	{ regex: /\b[Ss]04\b/g, replacement: '03+1' },
 	{ regex: /\b[Kk]önigsblauen/g, replacement: 'Königscheissen' },
 	{ regex: /\bSCHALKE\b/g, replacement: 'SHITKE' },
@@ -9,6 +9,7 @@ const RULES = [
 	{ regex: /\b[Rr]oyal [Bb]lues\b/g, replacement: 'Royal Shits' },
 	{ regex: /\b[Ee]mbolo\b/g, replacement: 'Ebola Plunger' },
 	{ regex: /\b[Hh]untelaar\b/g, replacement: 'Satan' },
+	{ regex: /\b([Mm]arkus )?[Ww]einzierl\b/g, replacement: 'Papa Smurf' },
 ];
 
 function walk(node)

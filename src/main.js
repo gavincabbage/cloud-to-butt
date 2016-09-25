@@ -3,15 +3,17 @@ const RULES = [
 	{ regex: /\bschalke\b/g, replacement: 'shitke' },
 	{ regex: /\bSchalke04\b/g, replacement: 'Shitke04' },
 	{ regex: /\bschalke04\b/g, replacement: 'shitke04' },
-	{ regex: /\bS04\b/g, replacement: 'S04' },
-	{ regex: /\bs04\b/g, replacement: 's04' },
-	{ regex: /\bblauen\b/g, replacement: 'scheissen' },
+	{ regex: /\bS04\b/g, replacement: 'Shit04' },
+	{ regex: /\bs04\b/g, replacement: 'shit04' },
+	{ regex: /blauen/g, replacement: 'scheissen' },
 	{ regex: /\bBlauen\b/g, replacement: 'Scheissen' },
 	{ regex: /\bMiners\b/g, replacement: 'Shitters' },
 	{ regex: /\bminers\b/g, replacement: 'shitters' },
 	{ regex: /\bSCHALKE\b/g, replacement: 'SHITKE' },
 	{ regex: /\bBlues\b/g, replacement: 'Shits' },
 	{ regex: /\bblues\b/g, replacement: 'shits' },
+	{ regex: /\bGelsenkirchen\b/g, replacement: 'Herne West' },
+	{ regex: /\bgelsenkirchen\b/g, replacement: 'herne west' },
 ];
 
 function walk(node)

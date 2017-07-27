@@ -1,8 +1,8 @@
 shitkerizer
 ===========
 
-A Chrome extension to keep your browsing experience Sch*lke-free.
-Intended for Borussia Dortmund fans and anyone else desiring Sch*lke-free lifestyle.
+A Chrome extension to keep your browsing experience Sch\*lke-free.
+Intended for Borussia Dortmund fans and anyone else desiring Sch\*lke-free lifestyle.
 
 [Download from the Chrome Web Store](https://github.com/gavincabbage/shitkerizer/blob/master/shitkerizer.crx?raw=true)
 
